@@ -1,1 +1,13 @@
-test test
+WorldAxe = "g3picks4"
+WorldSpec = "hanblockdrop4"
+WorldWL = {"hanzlck6"}
+WorldSeed 		= {"hansugarseeds974", "hansugarseeds592", "hansugarseeds374"}
+WorldSeedPepper 	= {"hanpepseeds533" , "hanpepseeds356"}
+WorldPack 		= {"hanprofitbotz352", "hanprofitbotz592", "hanprofitbotz742", "hanprofitbotz849"}
+WorldWindow		= {"hanwindow4"}
+ 
+hargapack = 2000 -- HARGA PACK2000 
+namapack = "world_lock" -- NAMA PACKworld_lock
+MinItemPack = 3 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR DARIPADA MinItemPack, MAKA BOTNYA MULAI DROP PACKNYA KE STORAGE!
+maxbuy = 100 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA GEMSNYA MASIH CUKUP!
+iditempack = {242}
