@@ -5,7 +5,12 @@ WorldWL = {"hanzlck6"}
 --WorldSeedPepper 	= {"hanpepseeds533" , "hanpepseeds356"}
 --WorldPack 		= {"hanprofitbotz352", "hanprofitbotz592", "hanprofitbotz742", "hanprofitbotz849"}
 WorldWindow		= {"hanwindow4"}
- 
+
+nextrandom = false              -- If true, Bot will join random world after each rotation
+storagerandom = true           -- If true, Bot will join random world after drop pack/seed
+randomworld = {"1sgjfhdyenvhfystenvjsyuk", "2sgjfhdyenpjhfgtenvjsyuk", "3sgjfhdyenvhfystenvjsksy", "4sgjfhshryvhfystenvjsyuk", "5sgjfhoiunvhfystenvjsyuk", "6sgjfhdyenvhskgjenvjsyuk", "7sgjfhdyenvhfystsifugyuk"}    -- List of world to joining world
+delayrandomworld = 10000
+
 hargapack = 2000 -- HARGA PACK2000 
 namapack = "world_lock" -- NAMA PACKworld_lock
 MinItemPack = 5 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR DARIPADA MinItemPack, MAKA BOTNYA MULAI DROP PACKNYA KE STORAGE!
