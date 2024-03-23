@@ -1,9 +1,9 @@
 WorldAxe = "g3picks4"
 WorldSpec = "hanblockdrop4"
 WorldWL = {"hanzlck6"}
-WorldSeed 		= {"hansugarseeds974", "hansugarseeds592", "hansugarseeds374"}
-WorldSeedPepper 	= {"hanpepseeds533" , "hanpepseeds356"}
-WorldPack 		= {"hanprofitbotz352", "hanprofitbotz592", "hanprofitbotz742", "hanprofitbotz849"}
+--WorldSeed 		= {"hansugarseeds974", "hansugarseeds592", "hansugarseeds374"}
+--WorldSeedPepper 	= {"hanpepseeds533" , "hanpepseeds356"}
+--WorldPack 		= {"hanprofitbotz352", "hanprofitbotz592", "hanprofitbotz742", "hanprofitbotz849"}
 WorldWindow		= {"hanwindow4"}
  
 hargapack = 2000 -- HARGA PACK2000 
