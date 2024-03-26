@@ -1,4 +1,5 @@
 UTC_Time = 8
+HW_Exit = false
 WorldAxe = "g3picks4"
 WorldSpec = "hanblockdrop4"
 WorldWL = {"hanzlck6"}
